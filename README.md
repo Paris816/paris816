@@ -11,9 +11,9 @@ How lists work: Use numbers for numbers (actual number doesnt matter) use asteri
 2. i numbered this two
 2. i numbered this two as well.
 How tables work: Use pipes to indicate column breaks. Use a row of dashes to separate table input from first row header.
-My | First | Table
---- | --- | ---
-Happy | To Be | Coding(:
+|My | First | Table|
+| --- | --- | --- |
+|Happy | To Be | Coding(:|
 
 How links work: 2 ways to format. Both start wtih the text you want to hyperlink in single brackets. One is followed by an actual link,
 the other is followed by a referenced link.
