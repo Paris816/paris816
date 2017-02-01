@@ -9,7 +9,7 @@ How headers work: 6 font sizes, h1 through h6. h1 being the largest. Use hashtag
 ## This text is smaller than
 
 
-#This text
+# This text
 
 
 How lists work: Use numbers for numbers (actual number doesnt matter) use asterisk for bullet and an indented number for roman numerals.
